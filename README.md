@@ -20,6 +20,8 @@ These are the commands
 - !getAddress @NAME **Gets the address associated with the discord @**
 - ice **Anytime ice is mentioned the user is given "ice" a thing that does not exist on the blockchain**
 
+NOTE: token is missing in config.json. Enter your Discord bot token here to use
+
 
 What is WevCoin?
 ----------------
