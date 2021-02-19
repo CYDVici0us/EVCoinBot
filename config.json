@@ -1,0 +1,6 @@
+{
+    "token": "",
+    "infuraID": "22e903ea0cd44b77acd947cb8ba754f8",
+    "abiPath": "./build/contracts/EVCoin.json",
+    "contractAddress": "0x976797b8D29f5b3d580598bb4593ACf32Ea39084"
+}
